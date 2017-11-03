@@ -9,4 +9,6 @@
 - (id<UIViewControllerAnimatedTransitioning>)navigationController:(UINavigationController *)navigationController animationControllerForOperation:(UINavigationControllerOperation)operation fromViewController:(UIViewController *)fromVC toViewController:(UIViewController *)toVC{
     return [[ZoomTransition alloc]init];
 }
-  ```
+```
+## 效果图
+![单页翻页](https://github.com/HYDupup/YDAnimatedTransition/raw/master/image/单页翻页.gif)  
