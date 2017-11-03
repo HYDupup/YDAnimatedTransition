@@ -1,5 +1,8 @@
 # YDAnimatedTransition
-## pod  'YDAnimatedTransition'即可使用<br>
+## Installation
+```
+pod  'YDAnimatedTransition'
+```
 1.只需声明引入你需要的类的头文件
 ```
 #import "ZoomTransition.h"
