@@ -1,8 +1,7 @@
 # YDAnimatedTransition
-## Installation
-```
-pod  'YDAnimatedTransition'
-```
+## Overview
+![单页翻页](https://github.com/HYDupup/YDAnimatedTransition/raw/master/image/单页翻页.gif)  
+## Usage
 1.只需声明引入你需要的类的头文件
 ```
 #import "ZoomTransition.h"
@@ -13,5 +12,7 @@ pod  'YDAnimatedTransition'
     return [[ZoomTransition alloc]init];
 }
 ```
-## 效果图
-![单页翻页](https://github.com/HYDupup/YDAnimatedTransition/raw/master/image/单页翻页.gif)  
+## Installation
+```
+pod  'YDAnimatedTransition'
+```
